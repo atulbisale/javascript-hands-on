@@ -4,7 +4,7 @@ var evenOdd = function(num) {
         console.log(`${num} is even number `);   
         
     } else {
-        console.log(`${num} is even number `);       
+        console.log(`${num} is odd number `);       
     }
 }
 evenOdd(45);
